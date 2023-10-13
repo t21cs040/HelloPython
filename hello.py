@@ -5,7 +5,7 @@ Created on 2023/10/13
 '''
 
 print \
- ("Hello, Python world")
+ ("Hello, Python world!")
 
 # This is comment
 
